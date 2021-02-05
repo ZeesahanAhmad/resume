@@ -1,0 +1,54 @@
+export const SKILLS=[
+    {
+        id:"0",
+        name:"Java Script",
+        progress:85
+     },
+     {
+        id:"1",
+        name:"Java",
+        progress:87
+     },
+     {
+        id:"2",
+        name:"C",
+        progress:85
+     },
+     {
+        id:"3",
+        name:"Data Sructures",
+        progress:85
+     },{
+        id:"4",
+        name:"ReactJS",
+        progress:86
+     },{
+        id:"5",
+        name:"JSPt",
+        progress:85
+     },{
+        id:"5",
+        name:"Servlet",
+        progress:85
+     },{
+        id:"6",
+        name:"Bootstarp",
+        progress:84
+     },{
+        id:"8",
+        name:"Node.js",
+        progress:52
+     },{
+        id:"9",
+        name:"MongoDB",
+        progress:51
+     },{
+        id:"10",
+        name:"HTML",
+        progress:87
+     },{
+        id:"11",
+        name:"CSS",
+        progress:87
+     }
+]

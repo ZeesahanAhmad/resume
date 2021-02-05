@@ -1,0 +1,1 @@
+export const INTERESTS=["designing","teaching","sports"];
